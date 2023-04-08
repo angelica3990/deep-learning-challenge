@@ -1,6 +1,6 @@
 # deep-learning-challenge
 
-## Overview of analysis
+## Overview of Analysis
 
 ### Data Preprocessing
 - Variables

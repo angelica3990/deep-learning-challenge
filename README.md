@@ -1,9 +1,6 @@
 # deep-learning-challenge
 
-### Overview of analysis:.
-
-### Results: Using bulleted lists and images to support your answers, address the following questions:
-
+#### Overview of analysis
 
 ### Data Preprocessing
 - Variables

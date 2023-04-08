@@ -28,6 +28,7 @@
   - Accurary before optimization is:
 
 ![image](https://user-images.githubusercontent.com/62813833/230728433-9532bd8e-b54b-413b-838e-277da8329eff.png)
+
 (72%)
 
 
@@ -36,4 +37,5 @@
       - Looked at NAME value counts for binning
    
 ![image](https://user-images.githubusercontent.com/62813833/230728671-eeea054b-ad30-41c6-b22d-df31c44161e9.png)
+
 (78%)

@@ -7,8 +7,8 @@
 
 ### Data Preprocessing
 - Variables
-- - EIN and NAME — Identification columns
-- - APPLICATION_TYPE — Alphabet Soup application type
+  -- EIN and NAME — Identification columns
+  -- APPLICATION_TYPE — Alphabet Soup application type
 - - AFFILIATION — Affiliated sector of industry
 - - CLASSIFICATION — Government organization classification
 - - USE_CASE — Use case for funding
